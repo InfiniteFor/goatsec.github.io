@@ -24,7 +24,7 @@ author:
 # URL settings
 url: "https://goat-sec.com" #
 baseurl: "https://infinitefor.github.io/goatsec.github.io/"
-permalink: /:title/
+permalink: /goatsec.github.io/:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
