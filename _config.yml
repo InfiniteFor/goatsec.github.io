@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme # site title
+title: GoatSec Blog # site title
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -11,10 +11,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: GoatSec # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Hacker, coder, maker blog about security and tech. Find me on HackTheBox or twitter. <a href="https://www.hackthebox.eu/home/users/profile/247862" target="_blank" rel="noopener">@htb</a> <a href="https://twitter.com/Todays_Color" target="_blank" rel="noopener">@twitter</a>.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
@@ -23,8 +22,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://goat-sec.com" #
+baseurl: /goatsec.github.io
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
@@ -36,6 +35,7 @@ collections:
 
 # Markdown settings
 markdown: kramdown
+encoding: utf-8
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
@@ -60,7 +60,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 10
 
 # Build settings
 # theme: klise
