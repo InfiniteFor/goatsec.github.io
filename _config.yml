@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "https://goat-sec.com" #
-baseurl: /goatsec.github.io
+baseurl: /goatsec.github.io/
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
